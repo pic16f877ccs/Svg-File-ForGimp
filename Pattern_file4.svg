@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="240"
+   viewBox="0 0 240 240"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Patter_file103.svg"
+   inkscape:export-filename="/home/sandumars/DataVideo/FileImage/InkscapeProject/Lesson_IVX_.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ededed"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     scale-x="1"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="true"
+     inkscape:zoom="3.5458333"
+     inkscape:cx="120"
+     inkscape:cy="120"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     width="240px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-others="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1193" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer_II"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer_I"
+     style="display:inline">
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:none;fill-opacity:0;stroke:#60186a;stroke-width:16;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:70.1838, 70.1838;stroke-dashoffset:134.4;paint-order:markers stroke fill;stroke-opacity:1"
+       id="path2311"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="341.21048"
+       sodipodi:cy="146.53899"
+       sodipodi:r1="46.059238"
+       sodipodi:r2="23.029619"
+       sodipodi:arg1="0.88985129"
+       sodipodi:arg2="1.9370488"
+       inkscape:rounded="-0.718643"
+       inkscape:randomized="0"
+       d="m 370.20604,182.32601 c 44.54504,-36.09154 -83.46947,-85.192548 -74.48581,-28.56964 8.98366,56.6229 115.51365,-29.69042 61.98494,-50.22179 -53.52871,-20.531368 -32.04417,114.88296 12.50087,78.79143 z"
+       transform="matrix(-1.1989578,2.2038233,-2.0182273,-1.2365786,835.50288,-430.29316)" />
+  </g>
+</svg>

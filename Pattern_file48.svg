@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="Lessons_56_.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ededed"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     scale-x="1"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="true"
+     showborder="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="10.025"
+     inkscape:cx="40"
+     inkscape:cy="48.977556"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4416">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4412" />
+      <stop
+         style="stop-color:#000a67;stop-opacity:1"
+         offset="1"
+         id="stop4414" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4416"
+       id="radialGradient4418"
+       cx="40"
+       cy="40"
+       fx="40"
+       fy="40"
+       r="15"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer_I"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ff9955;fill-opacity:0;stroke:none;stroke-width:10"
+       id="rect846"
+       width="3840"
+       height="2160"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0"
+       sodipodi:insensitive="true"
+       inkscape:label="Background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer_II">
+    <path
+       id="rect3035"
+       style="fill:url(#radialGradient4418);fill-rule:evenodd;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1"
+       d="m 41.212183,37.575634 1.212183,1.212183 c 0.671549,0.671549 0.671549,1.752816 0,2.424366 l -1.212183,1.212183 c -0.67155,0.671549 -1.752817,0.671549 -2.424366,0 l -1.212183,-1.212183 c -0.67155,-0.67155 -0.67155,-1.752817 0,-2.424366 l 1.212183,-1.212183 c 0.671549,-0.67155 1.752816,-0.67155 2.424366,0 z m -2.497897,6.281509 a 2.5714286,2.5714286 0 0 1 -2.571429,2.571429 2.5714286,2.5714286 0 0 1 -2.571428,-2.571429 2.5714286,2.5714286 0 0 1 2.571428,-2.571429 2.5714286,2.5714286 0 0 1 2.571429,2.571429 z m 0,-7.714286 a 2.5714286,2.5714286 0 0 1 -2.571429,2.571429 2.5714286,2.5714286 0 0 1 -2.571428,-2.571429 2.5714286,2.5714286 0 0 1 2.571428,-2.571428 2.5714286,2.5714286 0 0 1 2.571429,2.571428 z m 7.714286,7.714286 a 2.5714286,2.5714286 0 0 1 -2.571429,2.571429 2.5714286,2.5714286 0 0 1 -2.571429,-2.571429 2.5714286,2.5714286 0 0 1 2.571429,-2.571429 2.5714286,2.5714286 0 0 1 2.571429,2.571429 z m 0,-7.714286 a 2.5714286,2.5714286 0 0 1 -2.571429,2.571429 2.5714286,2.5714286 0 0 1 -2.571429,-2.571429 2.5714286,2.5714286 0 0 1 2.571429,-2.571428 2.5714286,2.5714286 0 0 1 2.571429,2.571428 z m -9.857143,10.714286 a 3.4285714,3.4285714 0 0 1 -3.428572,3.428572 3.4285714,3.4285714 0 0 1 -3.428572,-3.428572 3.4285714,3.4285714 0 0 1 3.428572,-3.428572 3.4285714,3.4285714 0 0 1 3.428572,3.428572 z m 0,-13.714286 a 3.4285714,3.4285714 0 0 1 -3.428572,3.428572 3.4285714,3.4285714 0 0 1 -3.428571,-3.428572 3.4285714,3.4285714 0 0 1 3.428571,-3.428571 3.4285714,3.4285714 0 0 1 3.428572,3.428571 z m 13.714286,0 a 3.4285714,3.4285714 0 0 1 -3.428572,3.428572 3.4285714,3.4285714 0 0 1 -3.428572,-3.428572 3.4285714,3.4285714 0 0 1 3.428572,-3.428572 3.4285714,3.4285714 0 0 1 3.428572,3.428572 z m -1e-6,13.714286 a 3.4285714,3.4285714 0 0 1 -3.428571,3.428571 3.4285714,3.4285714 0 0 1 -3.428571,-3.428571 3.4285714,3.4285714 0 0 1 3.428571,-3.428571 3.4285714,3.4285714 0 0 1 3.428571,3.428571 z M 55,50.714286 A 4.2857143,4.2857143 0 0 1 50.714286,55 4.2857143,4.2857143 0 0 1 46.428571,50.714286 4.2857143,4.2857143 0 0 1 50.714286,46.428571 4.2857143,4.2857143 0 0 1 55,50.714286 Z M 55,29.285714 A 4.2857143,4.2857143 0 0 1 50.714286,33.571428 4.2857143,4.2857143 0 0 1 46.428572,29.285714 4.2857143,4.2857143 0 0 1 50.714286,25.000001 4.2857143,4.2857143 0 0 1 55,29.285714 Z m -21.428571,0 A 4.2857143,4.2857143 0 0 1 29.285714,33.571429 4.2857143,4.2857143 0 0 1 25,29.285714 4.2857143,4.2857143 0 0 1 29.285714,25 a 4.2857143,4.2857143 0 0 1 4.285715,4.285714 z m -1e-6,21.428572 A 4.2857143,4.2857143 0 0 1 29.285714,55 a 4.2857143,4.2857143 0 0 1 -4.285713,-4.285714 4.2857143,4.2857143 0 0 1 4.285713,-4.285714 4.2857143,4.2857143 0 0 1 4.285714,4.285714 z" />
+    <g
+       id="g3473"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,17.5,-26.153053)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3449"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3441"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3443"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3445"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3447"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3459"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3451"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3453"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3455"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3457"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3469"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3461"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3463"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3465"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3467"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3471"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3507"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,62.5,-26.153053)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3483"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3475"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3477"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3479"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3481"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3493"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3485"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3487"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3489"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3491"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3503"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3495"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3497"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3499"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3501"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3505"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3543"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,62.5,18.846948)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3519"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3511"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3513"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3515"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3517"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3529"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3521"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3523"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3525"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3527"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3539"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3531"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3533"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3535"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3537"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3541"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3577"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,17.5,18.846948)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3553"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3545"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3547"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3549"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3551"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3563"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3555"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3557"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3559"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3561"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3573"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3565"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3567"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3569"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3571"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3575"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3611"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,80,-3.653052)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3587"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3579"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3581"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3583"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3585"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3597"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3589"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3591"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3593"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3595"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3607"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3599"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3601"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3603"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3605"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3609"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3645"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,40,36.346948)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3621"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3613"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3615"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3617"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3619"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3631"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3623"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3625"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3627"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3629"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3641"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3633"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3635"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3637"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3639"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3643"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3679"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,40,-43.653052)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3655"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3647"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3649"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3651"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3653"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3665"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3657"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3659"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3661"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3663"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3675"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3667"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3669"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3671"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3673"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3677"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3713"
+       transform="matrix(0.54566315,0.54566315,-0.54566315,0.54566315,0,-3.653052)"
+       style="stroke-width:1.29586">
+      <g
+         id="g3689"
+         transform="translate(22.5,-22.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3681"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3683"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3685"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3687"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3699"
+         transform="translate(28,28)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3691"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3693"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3695"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3697"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3709"
+         transform="translate(60.5,60.5)"
+         style="stroke-width:1.29586">
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3701"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3703"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3705"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3707"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#2a6991;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29586;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3711"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3747"
+       transform="matrix(0.3897594,0.3897594,-0.3897594,0.3897594,80,48.819248)"
+       style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+      <g
+         id="g3723"
+         transform="translate(22.5,-22.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3715"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3717"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3719"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3721"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3733"
+         transform="translate(28,28)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3725"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3727"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3729"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3731"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3743"
+         transform="translate(60.5,60.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3735"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3737"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3739"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3741"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3745"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3781"
+       transform="matrix(0.3897594,0.3897594,-0.3897594,0.3897594,0,48.819248)"
+       style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+      <g
+         id="g3757"
+         transform="translate(22.5,-22.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3749"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3751"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3753"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3755"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3767"
+         transform="translate(28,28)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3759"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3761"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3763"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3765"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3777"
+         transform="translate(60.5,60.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3769"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3771"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3773"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3775"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3779"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3815"
+       transform="matrix(0.3897594,0.3897594,-0.3897594,0.3897594,0,-31.180752)"
+       style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+      <g
+         id="g3791"
+         transform="translate(22.5,-22.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3783"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3785"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3787"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3789"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3801"
+         transform="translate(28,28)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3793"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3795"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3797"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3799"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3811"
+         transform="translate(60.5,60.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3803"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3805"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3807"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3809"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3813"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g3849"
+       transform="matrix(0.3897594,0.3897594,-0.3897594,0.3897594,80,-31.180752)"
+       style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+      <g
+         id="g3825"
+         transform="translate(22.5,-22.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3817"
+           cx="5"
+           cy="75"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3819"
+           cx="5"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3821"
+           cx="30"
+           cy="50"
+           r="5" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3823"
+           cx="30"
+           cy="75"
+           r="5" />
+      </g>
+      <g
+         id="g3835"
+         transform="translate(28,28)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3827"
+           cx="20"
+           cy="20"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3829"
+           cx="20"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3831"
+           cx="4"
+           cy="4"
+           r="4" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3833"
+           cx="4"
+           cy="20"
+           r="4" />
+      </g>
+      <g
+         id="g3845"
+         transform="translate(60.5,60.5)"
+         style="fill:#3c1753;fill-opacity:1;stroke-width:1.8142">
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3837"
+           cx="-16"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3839"
+           cx="-16"
+           cy="-16"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3841"
+           cx="-25"
+           cy="-25"
+           r="3" />
+        <circle
+           style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+           id="circle3843"
+           cx="-25"
+           cy="-16"
+           r="3" />
+      </g>
+      <rect
+         style="fill:#3c1753;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8142;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect3847"
+         width="6"
+         height="6"
+         x="53.568542"
+         y="-3"
+         rx="2"
+         ry="2"
+         transform="rotate(45)" />
+    </g>
+  </g>
+</svg>
