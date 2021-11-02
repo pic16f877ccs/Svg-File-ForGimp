@@ -1,1 +1,1 @@
-# Svg-File-ForGimp
+# Svg files for Gimp patterns
